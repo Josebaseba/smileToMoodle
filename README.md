@@ -12,13 +12,9 @@ Esta puesto como defecto que descargue del Moodle de la UPV, cambiando la ruta p
 
 1 - Descargamos el Script
 
-2 - Creamos al lado del script la carpeta descargas
+2 - Darle a la variable DOMINIO la url del Moodle en cuestión y a CANTIDAD el número de fotos que se quiran descargar.
 
-3 - En caso de querer cambiar de Moodle, solo cambiamos la primera parte de la URL. Es decir, la parte http://moodle4.ehu.es se sustituye por la ruta que sea. Lo demas -> /user/pix.php/ etc. no se toca en ningún caso.
-
-4 - Cambiamos el número de iteraciones del While dependiendo de la cantidad de usuarios que estimemos que haya en el Moodle.
-
-5 - Doble click sobre el script y listo, en la consola te irán saliendo que fotos se han descargado y se guardarán en la carpeta descargas.
+3 - Ejecutar script.
 
 ==
 
