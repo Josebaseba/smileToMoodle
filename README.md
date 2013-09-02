@@ -1,5 +1,5 @@
-moodlePhoto
-===========
+smileToMoodle
+=============
 
 Descargar fotos de los usuarios registrados en cualquier Moodle.
 
