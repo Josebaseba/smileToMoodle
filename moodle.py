@@ -26,4 +26,4 @@ if not os.path.isdir(carpeta):
 
 for i in range(CANTIDAD):
   name = str(i) + ".jpg"
-  moodle('http://' + DOMINIO + '/user/pix.php/' + str(i) + '/f1.jpg', name)
+  moodle(DOMINIO + '/user/pix.php/' + str(i) + '/f1.jpg', name)
